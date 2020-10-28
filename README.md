@@ -1,2 +1,2 @@
-# grid-vue-sandbox
+# grid-vue
 Created with CodeSandbox
